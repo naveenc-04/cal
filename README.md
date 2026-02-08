@@ -16,7 +16,7 @@ This project focuses on DOM manipulation, event handling, and clean UI design.
 - JavaScript
 
 ## Live Demo
- calculator-nvn.netlify.app
+ 🚀 [Live Demo](https://calculator-nvn.netlify.app/)
 
 ## Purpose
 This project was built to strengthen JavaScript fundamentals and improve interaction handling in web applications.
